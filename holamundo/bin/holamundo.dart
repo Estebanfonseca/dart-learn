@@ -12,8 +12,7 @@ bool soyDev = true;
 double miAltura = 1.65;
 //declaracion de listas
 var lista = [1, 3, 2];
-var listaEstatica = List.filled(3,
-    ''); //indicamos que una lista no puede crecer mas de lo que le digamos (largo de la lista,datos que va a tener)
+var listaEstatica = List.filled(3,''); //indicamos que una lista no puede crecer mas de lo que le digamos (largo de la lista,datos que va a tener)
 var listaNombre = ['juan', 'luis', 'andres'];
 var listaConjunta = [
   lista,
